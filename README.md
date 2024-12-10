@@ -1,9 +1,12 @@
-# 👋 Hola, soy Thiago Ventua
+## Presentacion
+# Hola, soy Thiago Ventua 👋
+Soy de Argentina y me espezializacion es en Informático/Desarrollador y Experto en Atención al Cliente con experiencia en programación y buen conocimiento en la contabilidad, análisis financiero y atención al usuario. 🚀
 
+💡 Me especializo en resolver desafíos tecnológicos, crear soluciones innovadoras y optimizar procesos mediante tecnologías modernas, ya desde pequeño los 12 años me gustaba la tecnologia y mas en el tema del desarollo en general, desarollo web, software, etc.
 ---
 
-## 🧮 Contador & Asistente de Soporte  
-**Gestión financiera y resolución de consultas con experiencia 🚀 | Desarrollador de Software | Programador Full Stack**  
+## 🚀 Desarrollador de Software | Programador Full Stack 
+**Gestión financiera y resolución de consultas con experiencia 🧮 Contador & Asistente de Soporte **  
 
 🌟 *"Construyendo el futuro con tecnología y código, especializado en Java, C/C++, JavaScript y más."*
 
@@ -13,6 +16,7 @@
   📊 [Perfil en LinkedIn](https://linkedin.com/in/thiago-ventura-4961732b3)  
   📧 [Correo Electrónico: venturathiago0911@gmail.com](mailto:venturathiago0911@gmail.com)  
   🔗 [Mis Proyectos en GitHub](https://github.com/thiago030911)  
+  🔗 [Numero de telefono](11 2825-3609) 
 </p>
 
 ---
